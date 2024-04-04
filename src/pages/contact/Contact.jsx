@@ -55,7 +55,7 @@ export default function Contact() {
           href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=hossein.taeezadeh17@gmail.com"
           target="-blank"
         >
-          Gmail:
+          Gmaill:
           <span style={{ color: "rgb(0,159,241)" }}>
             {" "}
             hossein.taeezadeh17@gmail.com
